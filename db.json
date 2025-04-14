@@ -1,0 +1,155 @@
+
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "The [blank1] is shining [blank2] in the sky.",
+      "options": [
+        { "id": 1, "text": "sun" },
+        { "id": 2, "text": "moon" },
+        { "id": 3, "text": "brightly" },
+        { "id": 4, "text": "dimly" }
+      ],
+      "blanks": [0, 1],
+      "answers": [
+        { "id": 1, "text": "sun" },
+        { "id": 3, "text": "brightly" }
+      ]
+    },
+    {
+      "id": 2,
+      "sentence": "She [blank1] to the store to [blank2] some groceries.",
+      "options": [
+        { "id": 5, "text": "went" },
+        { "id": 6, "text": "buy" },
+        { "id": 7, "text": "walked" },
+        { "id": 8, "text": "sell" }
+      ],
+      "blanks": [0, 1],
+      "answers": [
+        { "id": 5, "text": "went" },
+        { "id": 6, "text": "buy" }
+      ]
+    },
+    {
+      "id": 3,
+      "sentence": "The [blank1] dog [blank2] at the mailman.",
+      "options": [
+        { "id": 9, "text": "angry" },
+        { "id": 10, "text": "barked" },
+        { "id": 11, "text": "happy" },
+        { "id": 12, "text": "jumped" }
+      ],
+      "blanks": [0, 1],
+      "answers": [
+        { "id": 9, "text": "angry" },
+        { "id": 10, "text": "barked" }
+      ]
+    },
+    {
+      "id": 4,
+      "sentence": "They [blank1] their vacation in the [blank2] mountains.",
+      "options": [
+        { "id": 13, "text": "spent" },
+        { "id": 14, "text": "scenic" },
+        { "id": 15, "text": "enjoyed" },
+        { "id": 16, "text": "snowy" }
+      ],
+      "blanks": [0, 1],
+      "answers": [
+        { "id": 15, "text": "enjoyed" },
+        { "id": 16, "text": "snowy" }
+      ]
+    },
+    {
+      "id": 5,
+      "sentence": "The chef [blank1] a delicious [blank2] for dinner.",
+      "options": [
+        { "id": 17, "text": "cooked" },
+        { "id": 18, "text": "prepared" },
+        { "id": 19, "text": "meal" },
+        { "id": 20, "text": "dessert" }
+      ],
+      "blanks": [0, 1],
+      "answers": [
+        { "id": 18, "text": "prepared" },
+        { "id": 19, "text": "meal" }
+      ]
+    },
+    {
+      "id": 6,
+      "sentence": "The [blank1] museum displays [blank2] artifacts from ancient civilizations.",
+      "options": [
+        { "id": 21, "text": "historic" },
+        { "id": 22, "text": "valuable" },
+        { "id": 23, "text": "modern" },
+        { "id": 24, "text": "rare" }
+      ],
+      "blanks": [0, 1],
+      "answers": [
+        { "id": 21, "text": "historic" },
+        { "id": 22, "text": "valuable" }
+      ]
+    },
+    {
+      "id": 7,
+      "sentence": "Students [blank1] quietly while the teacher [blank2] the lesson.",
+      "options": [
+        { "id": 25, "text": "worked" },
+        { "id": 26, "text": "explained" },
+        { "id": 27, "text": "talked" },
+        { "id": 28, "text": "prepared" }
+      ],
+      "blanks": [0, 1],
+      "answers": [
+        { "id": 25, "text": "worked" },
+        { "id": 26, "text": "explained" }
+      ]
+    },
+    {
+      "id": 8,
+      "sentence": "The [blank1] athlete won the [blank2] medal in the Olympic games.",
+      "options": [
+        { "id": 29, "text": "skilled" },
+        { "id": 30, "text": "gold" },
+        { "id": 31, "text": "determined" },
+        { "id": 32, "text": "silver" }
+      ],
+      "blanks": [0, 1],
+      "answers": [
+        { "id": 31, "text": "determined" },
+        { "id": 30, "text": "gold" }
+      ]
+    },
+    {
+      "id": 9,
+      "sentence": "She [blank1] her keys and was [blank2] to get into her house.",
+      "options": [
+        { "id": 33, "text": "lost" },
+        { "id": 34, "text": "unable" },
+        { "id": 35, "text": "found" },
+        { "id": 36, "text": "happy" }
+      ],
+      "blanks": [0, 1],
+      "answers": [
+        { "id": 33, "text": "lost" },
+        { "id": 34, "text": "unable" }
+      ]
+    },
+    {
+      "id": 10,
+      "sentence": "The [blank1] company announced a [blank2] product launch next month.",
+      "options": [
+        { "id": 37, "text": "tech" },
+        { "id": 38, "text": "major" },
+        { "id": 39, "text": "small" },
+        { "id": 40, "text": "delayed" }
+      ],
+      "blanks": [0, 1],
+      "answers": [
+        { "id": 37, "text": "tech" },
+        { "id": 38, "text": "major" }
+      ]
+    }
+  ]
+}
