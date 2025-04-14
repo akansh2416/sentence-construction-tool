@@ -1,5 +1,5 @@
 
-# Sentence Construction Challenge
+# Sentence Construction Tool
 
 This interactive web application helps users practice constructing sentences by filling in blanks with appropriate words. The app features a timer, multiple-choice options, and a comprehensive feedback system.
 
